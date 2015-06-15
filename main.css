@@ -1,0 +1,107 @@
+/**********
+GENERAL
+**********/
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  color: 705B35;
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+h3 {
+  margin: 0 0 1em 0;
+}
+
+/*************************
+HEADING
+**************************/
+
+header {
+  float: left;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%;
+}
+
+#logo {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'La Belle Aurore', sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+}
+
+h2 {
+  font-size: 0.75em;
+  margin: -5px 0 0;
+  font-weight: normal;
+}
+
+/**********
+NAVIGATION
+**********/
+
+nav {
+  text-align: center;
+  padding: 10px 0;
+  margin: 20px 0 0 ;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  font-weight: 800;
+  padding: 15px; 10px;
+}
+
+
+
+/**********
+COLOR
+**********/
+
+/* caramel header */
+header {
+  background: #570026;
+  border-color: #570026;
+}
+
+/* links */
+a {
+  color: #705B35;
+}
+
+/* logo text */
+h1, h2 {
+  color: #FFF6D9
+}
+/* nav background on mobile */
+nav {
+  background: #EFD0B3;
+}
